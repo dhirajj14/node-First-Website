@@ -1,0 +1,14 @@
+{
+    "name": "dhiraj-jain",
+    "version": "1.0.0",
+    "description": "First Node app website",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "keywords": [],
+    "author": "Dhiraj Jain",
+    "license": "MIT",
+    "devDependencies": {},
+    "dependencies": {}
+  }
